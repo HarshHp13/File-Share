@@ -1,0 +1,5 @@
+npm_packages/
+cmp_des/
+networking_2023_mark1/node_modules/
+server/node_modules/
+!networking_2023_mark1
